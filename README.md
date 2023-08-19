@@ -29,8 +29,8 @@ Build your training and test set from the dataset, here we are making the neural
 
 ## PROGRAM
 ```
-Developed by: Kaushika A
-Register no: 212221230048
+Developed by: Pavan Kishore.M
+Register no: 212221230076
 ```
 ```python
 # reading the data file
