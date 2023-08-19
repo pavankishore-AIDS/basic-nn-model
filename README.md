@@ -14,7 +14,8 @@ Build your training and test set from the dataset, here we are making the neural
 
 ## Neural Network Model
 
-![](network%20model.PNG)
+![network model](https://github.com/pavankishore-AIDS/basic-nn-model/assets/94154941/e73b03f3-5a80-41f4-924c-91ee5b1672fc)
+
 
 ## DESIGN STEPS
 
@@ -113,21 +114,24 @@ ai_brain.predict(X_n1_1)
 
 ## Dataset Information
 
-![](dataset.PNG)
+![d1](https://github.com/pavankishore-AIDS/basic-nn-model/assets/94154941/ed0c3dfe-a21f-4940-b373-35a8dd73ea2c)
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![](plot.png)
+![d2](https://github.com/pavankishore-AIDS/basic-nn-model/assets/94154941/50c69355-c2b1-4e1a-b1f4-192ac89b9aac)
+
 
 ### Test Data Root Mean Squared Error
 
-![](1.PNG)
+![d3](https://github.com/pavankishore-AIDS/basic-nn-model/assets/94154941/30a6d056-9dbf-4a2d-a510-5d81783f2e97)
+
 
 ### New Sample Data Prediction
 
-![](2.PNG)
+![d4](https://github.com/pavankishore-AIDS/basic-nn-model/assets/94154941/fe159a37-1ab9-4c04-8e09-640781f19500)
 
 ## RESULT
 Thus a basic neural network regression model for the given dataset is written and executed successfully.
